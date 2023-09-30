@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := moonstone,sunstone
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
