@@ -1,6 +1,8 @@
-#  TWRP Device Tree for Poco X5 5G (moonstone)
+# Unified TWRP Device Tree for Poco X5 5G (moonstone) & Redmi Note 12 5G (sunstone)
 
 The Poco X5 5G (codenamed "moonstone") is a High-range smartphone from Xiaomi. It was announced released in 2023, February 07.
+
+The Redmi Note 12 5G (codenamed "sunstone") is a High-range smartphone from Xiaomi. It was announced released in 2023, February 07.
 
 ## Device specifications
 
@@ -25,4 +27,4 @@ The Poco X5 5G (codenamed "moonstone") is a High-range smartphone from Xiaomi. I
 
 ## Device picture
 
-![Xiaomi 12 Lite ](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x5-5g-1.jpg)
+![ Poco X5 5G ](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x5-5g-1.jpg)
